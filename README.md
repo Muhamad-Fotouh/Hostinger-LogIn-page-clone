@@ -1,1 +1,1 @@
-# Hostinger-LogIn-page-clone
+# Hostinger-LogIn-Page-Clone
